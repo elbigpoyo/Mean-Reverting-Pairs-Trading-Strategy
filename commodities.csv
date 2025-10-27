@@ -1,21 +1,12 @@
-Commodity,Root Ticker,YahooFuturesTicker,Category
-Gold,GC,GC=F,Precious Metals
-Silver,SI,SI=F,Precious Metals
-Platinum,PL,PL=F,Precious Metals
-Palladium,PA,PA=F,Precious Metals
-Copper,HG,HG=F,Base Metals
-Crude Oil (WTI),CL,CL=F,Energy
-Brent Crude,BZ,BZ=F,Energy
-Natural Gas,NG,NG=F,Energy
-Heating Oil,HO,HO=F,Energy
-RBOB Gasoline,RB,RB=F,Energy
-Corn,C,ZC=F,Grains
-Wheat,W,KE=F,Grains
-Soybeans,S,ZL=F,Oilseeds/Grains
-Cotton #2,CT,CT=F,Softs (Fibers)
-Sugar #11,SB,SB=F,Softs (Agriculture)
-Coffee,KC,KC=F,Softs (Agriculture)
-Cocoa,CC,CC=F,Softs (Agriculture)
-Live Cattle,LC,LE=F,Livestock
-Lean Hogs,LH,HE=F,Livestock
-Lumber (Random Length),LBS,LBR=F,Other Raw Materials
+Commodity_Group,Commodity_Name,Ticker_Symbol
+Agriculture,Corn,CORN
+Agriculture,Sugar,CANE
+Agriculture,Wheat,WEAT
+Energy,Brent_Crude_Oil,BNO
+Energy,Crude_Oil,USO
+Energy,Natural_Gas,UNG
+Industrial_Metal,Copper,CPER
+Precious_Metal,Gold,GLD
+Precious_Metal,Palladium,PALL
+Precious_Metal,Platinum,PPLT
+Precious_Metal,Silver,SLV
